@@ -1,0 +1,70 @@
+{
+  "short_name": "Moulya solar energies",
+  "name": "Moulya solar energies - Leading Solar Panel Installation Company in Hyderabad",
+  "description": "Professional solar panel installation services with PM Solar Scheme subsidies up to ₹78,000. Based in Hyderabad, serving Telangana and Andhra Pradesh.",
+  "icons": [
+    {
+      "src": "solar-favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fbbf24",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["business", "energy", "environment", "home-improvement"],
+  "screenshots": [
+    {
+      "src": "screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshot-narrow.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Solar Calculator",
+      "short_name": "Calculator",
+      "description": "Calculate your solar savings and subsidy",
+      "url": "/calculator",
+      "icons": [
+        {
+          "src": "calculator-icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Get Subsidy",
+      "short_name": "Subsidy",
+      "description": "Apply for ₹78,000 solar subsidy",
+      "url": "/landing",
+      "icons": [
+        {
+          "src": "subsidy-icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}

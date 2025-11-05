@@ -1,0 +1,32 @@
+/* TEAM */
+    Company: Moulya solar energies
+    Site: https://shiridisaisolars.com
+    Location: Hyderabad, Telangana, India
+    Address: 7-59/32, Tirumala enclave, Dammaiguda, ECIL, Hyderabad 500083
+    Phone: +91 97000 45000
+    Landline: +91 040 27135000
+    Email: info@moulya.in
+
+/* SITE */
+    Last update: 2024/08/22
+    Language: English, Hindi, Telugu
+    Doctype: HTML5
+    IDE: Visual Studio Code
+    Standards: HTML5, CSS3, JavaScript ES6+, React 18
+    Components: Tailwind CSS, Framer Motion, Lucide React
+    Software: Create React App, Node.js, npm
+
+/* THANKS */
+    Name: Government of India
+    Description: PM Solar Scheme subsidies and renewable energy policies
+
+    Name: Andhra Pradesh Government
+    Description: State solar energy initiatives and support
+
+    Name: Solar Energy Corporation of India (SECI)
+    Description: National solar mission and guidelines
+
+/* SITE */
+    Name: Moulya solar energies
+    Description: Leading solar panel installation company in Hyderabad, Telangana
+    Author: Moulya solar energies Team
