@@ -51,12 +51,39 @@ const Home: React.FC = () => {
     <>
       <Helmet>
         <title>Best Solar Panel Installation in Hyderabad & Telangana | PM Surya Ghar Subsidy | Moulya solar energies</title>
+        <meta name="title" content="Best Solar Panel Installation in Hyderabad & Telangana | PM Surya Ghar Subsidy | Moulya solar energies" />
         <meta name="description" content="⭐ #1 Solar Company in Hyderabad & Telangana. Get up to ₹78,000 PM Surya Ghar subsidy on rooftop solar installation. MNRE approved solar panels for home, commercial & industrial. Serving all Telangana districts. Free site survey." />
-        <meta name="keywords" content="solar panels Hyderabad, solar installation Hyderabad, best solar company Hyderabad, rooftop solar Hyderabad, solar panels Telangana, solar installation Telangana, PM Surya Ghar subsidy Telangana, solar subsidy Hyderabad, Moulya solar energies, ECIL solar panels, Dammaiguda solar installation" />
-        <meta property="og:title" content="Best Solar Panel Installation in Hyderabad & Telangana | PM Surya Ghar Subsidy" />
-        <meta property="og:description" content="⭐ #1 Solar Company serving all Telangana districts. Get up to ₹78,000 subsidy with PM Surya Ghar Yojana. MNRE approved installer. Free site survey." />
+        <meta name="keywords" content="solar panels Hyderabad, solar installation Hyderabad, best solar company Hyderabad, rooftop solar Hyderabad, solar panels Telangana, solar installation Telangana, PM Surya Ghar subsidy Telangana, solar subsidy Hyderabad, Moulya solar energies, ECIL solar panels, Dammaiguda solar installation, solar panel dealers Hyderabad, residential solar panels, commercial solar installation, MNRE approved solar company" />
+        <meta name="author" content="Moulya solar energies" />
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+        
+        {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://shiridisaisolars.com" />
+        <meta property="og:title" content="Best Solar Panel Installation in Hyderabad & Telangana | PM Surya Ghar Subsidy" />
+        <meta property="og:description" content="⭐ #1 Solar Company serving all Telangana districts. Get up to ₹78,000 subsidy with PM Surya Ghar Yojana. MNRE approved installer. Free site survey." />
+        <meta property="og:image" content="https://shiridisaisolars.com/images/logo.webp" />
+        <meta property="og:image:secure_url" content="https://shiridisaisolars.com/images/logo.webp" />
+        <meta property="og:image:type" content="image/webp" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:alt" content="Moulya solar energies - Leading Solar Panel Installation Company" />
+        <meta property="og:site_name" content="Moulya solar energies" />
+        <meta property="og:locale" content="en_IN" />
+        <meta property="og:locale:alternate" content="hi_IN" />
+        <meta property="og:locale:alternate" content="te_IN" />
+        
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:url" content="https://shiridisaisolars.com" />
+        <meta name="twitter:title" content="Best Solar Panel Installation in Hyderabad & Telangana | PM Surya Ghar Subsidy" />
+        <meta name="twitter:description" content="⭐ Top-rated solar company serving all Telangana districts. Get PM Surya Ghar subsidy up to ₹78,000. MNRE approved. Free quote!" />
+        <meta name="twitter:image" content="https://shiridisaisolars.com/images/logo.webp" />
+        <meta name="twitter:image:alt" content="Moulya solar energies - Leading Solar Panel Installation Company" />
+        <meta name="twitter:site" content="@moulyasolar" />
+        <meta name="twitter:creator" content="@moulyasolar" />
+        
+        {/* Canonical URL */}
         <link rel="canonical" href="https://shiridisaisolars.com" />
       </Helmet>
       <div className="pt-16">
