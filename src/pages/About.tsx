@@ -5,9 +5,7 @@ import {
   Users, 
   Globe, 
   CheckCircle,
-  Star,
-  MapPin,
-  Phone
+  Star
 } from 'lucide-react';
 
 const About: React.FC = () => {

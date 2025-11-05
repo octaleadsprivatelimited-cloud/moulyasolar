@@ -3,8 +3,6 @@ import { motion } from 'framer-motion';
 import { 
   Sun, 
   CheckCircle, 
-  Phone, 
-  MessageCircle,
   Send
 } from 'lucide-react';
 

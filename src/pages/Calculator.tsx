@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Sun, Calculator as CalculatorIcon, Zap, Phone, MessageCircle } from 'lucide-react';
+import { Sun, Calculator as CalculatorIcon, Zap, MessageCircle } from 'lucide-react';
 
 const Calculator: React.FC = () => {
   const [monthlyBill, setMonthlyBill] = useState('');
