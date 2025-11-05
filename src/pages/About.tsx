@@ -36,9 +36,10 @@ const About: React.FC = () => {
   ];
 
   const certifications = [
+    "PM Surya Ghar Approved Vendor",
+    "MNRE Approved Installer",
     "ISO 9001:2015 Quality Management",
     "BIS Certified Solar Panels",
-    "MNRE Approved Installer",
     "Electrical Safety Standards",
     "Environmental Management ISO 14001"
   ];
@@ -70,8 +71,8 @@ const About: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl text-white max-w-3xl mx-auto font-medium"
           >
-            Leading solar energy company based in Hyderabad, ECIL, serving all Telangana districts. Committed to providing sustainable 
-            energy solutions, solar panel installation, and exceptional customer service across all districts of Telangana.
+            PM Surya Ghar Approved Vendor - MNRE Certified solar energy company based in Hyderabad, ECIL, serving all districts of Andhra Pradesh (AP) and Telangana. Committed to providing sustainable 
+            energy solutions, solar panel installation, and exceptional customer service across both states.
           </motion.p>
         </div>
       </section>
@@ -90,11 +91,11 @@ const About: React.FC = () => {
               </h2>
               <p className="text-lg text-gray-600 mb-6">
                 Founded with a clear mission: to make solar energy 
-                accessible and affordable for households and businesses across all Telangana districts.
+                accessible and affordable for households and businesses across all districts of Andhra Pradesh and Telangana.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                What began as a small team of passionate engineers has grown into one of Telangana's 
-                most trusted solar installation companies, proudly serving satisfied customers across all Telangana districts.
+                What began as a small team of passionate engineers has grown into a PM Surya Ghar Approved Vendor, one of the 
+                most trusted solar installation companies in AP and Telangana, proudly serving satisfied customers across both states.
               </p>
               <p className="text-lg text-gray-600">
                 Today, we continue to innovate and expand our services while upholding our core 
@@ -109,11 +110,11 @@ const About: React.FC = () => {
             >
               <h3 className="text-2xl font-bold mb-4">Our Mission</h3>
               <p className="text-lg mb-4">
-                To accelerate the adoption of solar energy across all Telangana districts by delivering affordable, reliable, and sustainable solar solutions throughout Telangana.
+                To accelerate the adoption of solar energy across all districts of Andhra Pradesh and Telangana by delivering affordable, reliable, and sustainable solar solutions throughout both states.
               </p>
               <h3 className="text-2xl font-bold mb-4">Our Vision</h3>
               <p className="text-lg">
-                To become a leading solar energy company in Telangana, driving the state's transition to clean and renewable energy across all districts.
+                To become a leading PM Surya Ghar Approved Vendor in Andhra Pradesh and Telangana, driving both states' transition to clean and renewable energy across all districts.
               </p>
             </motion.div>
           </div>

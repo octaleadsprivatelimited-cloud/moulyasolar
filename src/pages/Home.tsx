@@ -50,18 +50,18 @@ const Home: React.FC = () => {
   return (
     <>
       <Helmet>
-        <title>Best Solar Panel Installation in Hyderabad & Telangana | PM Surya Ghar Subsidy | Moulya solar energies</title>
-        <meta name="title" content="Best Solar Panel Installation in Hyderabad & Telangana | PM Surya Ghar Subsidy | Moulya solar energies" />
-        <meta name="description" content="⭐ #1 Solar Company in Hyderabad & Telangana. Get up to ₹78,000 PM Surya Ghar subsidy on rooftop solar installation. MNRE approved solar panels for home, commercial & industrial. Serving all Telangana districts. Free site survey." />
-        <meta name="keywords" content="solar panels Hyderabad, solar installation Hyderabad, best solar company Hyderabad, rooftop solar Hyderabad, solar panels Telangana, solar installation Telangana, PM Surya Ghar subsidy Telangana, solar subsidy Hyderabad, Moulya solar energies, ECIL solar panels, Dammaiguda solar installation, solar panel dealers Hyderabad, residential solar panels, commercial solar installation, MNRE approved solar company" />
+        <title>PM Surya Ghar Approved Vendor | Solar Installation in AP & Telangana | Moulya solar energies</title>
+        <meta name="title" content="PM Surya Ghar Approved Vendor | Solar Installation in AP & Telangana | Moulya solar energies" />
+        <meta name="description" content="⭐ PM Surya Ghar Approved Vendor - MNRE Certified Solar Installer. Get up to ₹78,000 PM Surya Ghar subsidy on rooftop solar. Serving all districts of Andhra Pradesh (AP) and Telangana. Free site survey. Certified solar installation." />
+        <meta name="keywords" content="PM Surya Ghar approved vendor, PM Surya Ghar approved installer, solar panels Hyderabad, solar installation Hyderabad, solar panels Andhra Pradesh, solar installation AP, solar panels Telangana, solar installation Telangana, MNRE approved vendor, PM Surya Ghar vendor Hyderabad, PM Surya Ghar vendor AP, PM Surya Ghar vendor Telangana, Moulya solar energies" />
         <meta name="author" content="Moulya solar energies" />
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://shiridisaisolars.com" />
-        <meta property="og:title" content="Best Solar Panel Installation in Hyderabad & Telangana | PM Surya Ghar Subsidy" />
-        <meta property="og:description" content="⭐ #1 Solar Company serving all Telangana districts. Get up to ₹78,000 subsidy with PM Surya Ghar Yojana. MNRE approved installer. Free site survey." />
+        <meta property="og:title" content="PM Surya Ghar Approved Vendor | Solar Installation in AP & Telangana" />
+        <meta property="og:description" content="⭐ PM Surya Ghar Approved Vendor - MNRE Certified. Get up to ₹78,000 subsidy with PM Surya Ghar Yojana. Serving all districts of Andhra Pradesh and Telangana. Free site survey." />
         <meta property="og:image" content="https://shiridisaisolars.com/images/logo.webp" />
         <meta property="og:image:secure_url" content="https://shiridisaisolars.com/images/logo.webp" />
         <meta property="og:image:type" content="image/webp" />
@@ -76,8 +76,8 @@ const Home: React.FC = () => {
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:url" content="https://shiridisaisolars.com" />
-        <meta name="twitter:title" content="Best Solar Panel Installation in Hyderabad & Telangana | PM Surya Ghar Subsidy" />
-        <meta name="twitter:description" content="⭐ Top-rated solar company serving all Telangana districts. Get PM Surya Ghar subsidy up to ₹78,000. MNRE approved. Free quote!" />
+        <meta name="twitter:title" content="PM Surya Ghar Approved Vendor | Solar Installation in AP & Telangana" />
+        <meta name="twitter:description" content="⭐ PM Surya Ghar Approved Vendor - MNRE Certified. Serving all districts of AP & Telangana. Get PM Surya Ghar subsidy up to ₹78,000. Free quote!" />
         <meta name="twitter:image" content="https://shiridisaisolars.com/images/logo.webp" />
         <meta name="twitter:image:alt" content="Moulya solar energies - Leading Solar Panel Installation Company" />
         <meta name="twitter:site" content="@moulyasolar" />
@@ -139,7 +139,7 @@ const Home: React.FC = () => {
               </div>
               
               <p className="text-xl text-gray-200 mb-8">
-                Based in Hyderabad, ECIL, we are a leading solar panel installation company serving all Telangana districts. Operating across Hyderabad, Warangal, Karimnagar, Nizamabad, Khammam, Nalgonda, Rangareddy, Medchal, and all districts of Telangana. Save money, save the environment, and enjoy reliable clean energy with our comprehensive rooftop solar panels and advanced energy solutions.
+                <strong>PM Surya Ghar Approved Vendor</strong> - MNRE Certified Solar Installer. Based in Hyderabad, ECIL, we are a leading solar panel installation company serving all districts of <strong>Andhra Pradesh (AP) and Telangana</strong>. Operating across Hyderabad, Warangal, Karimnagar, Nizamabad, Khammam, Nalgonda, Rangareddy, Medchal, Vijayawada, Visakhapatnam, Guntur, and all districts of both states. Save money, save the environment, and enjoy reliable clean energy with our comprehensive rooftop solar panels and advanced energy solutions. Get up to ₹78,000 PM Surya Ghar subsidy on your solar installation.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <button
@@ -184,7 +184,7 @@ const Home: React.FC = () => {
                 
                 {/* Floating Elements */}
                 <div className="absolute -top-4 -right-4 bg-green-500 text-white px-4 py-2 rounded-full text-sm font-semibold animate-bounce">
-                  PM Solar Scheme
+                  PM Surya Ghar Approved Vendor
                 </div>
                 <div className="absolute -bottom-4 -left-4 bg-blue-500 text-white px-3 py-2 rounded-full text-xs font-semibold animate-pulse">
                   ₹78K Subsidy
