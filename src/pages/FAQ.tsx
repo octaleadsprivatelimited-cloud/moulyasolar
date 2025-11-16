@@ -10,6 +10,7 @@ import {
   Shield,
   DollarSign
 } from 'lucide-react';
+import SEO from '../components/SEO';
 
 const FAQ: React.FC = () => {
   const [openItems, setOpenItems] = useState<number[]>([]);
@@ -103,6 +104,13 @@ const FAQ: React.FC = () => {
 
   return (
     <div className="pt-16">
+      <SEO
+        title="FAQ | Solar Questions Answered | Moulya solar energies"
+        description="Get answers to common questions about solar panels, installation, subsidies, maintenance, and savings in AP & Telangana."
+        path="/faq"
+        image="/images/logo.webp"
+        keywords="[solar FAQs, solar questions, PM Surya Ghar subsidy FAQ, solar maintenance, solar payback, warranty solar panels, grid-tied solar India]"
+      />
       {/* Hero Section */}
       <section className="relative text-white py-20 overflow-hidden">
         {/* Background Image */}

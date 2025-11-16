@@ -8,6 +8,7 @@ import {
   Send,
   CheckCircle
 } from 'lucide-react';
+import SEO from '../components/SEO';
 
 const Contact: React.FC = () => {
   const [formData, setFormData] = useState({
@@ -113,6 +114,13 @@ const Contact: React.FC = () => {
 
   return (
     <div className="pt-16">
+      <SEO
+        title="Contact | Moulya solar energies"
+        description="Contact Moulya solar energies for free site survey, consultation, and solar quotes across Andhra Pradesh and Telangana."
+        path="/contact"
+        image="/images/logo.webp"
+        keywords="[contact solar company, solar quote Hyderabad, solar installer near me, AP Telangana solar contact, Moulya solar contact, PM Surya Ghar vendor contact]"
+      />
       {/* Hero Section */}
       <section className="relative text-white py-20 overflow-hidden">
         {/* Background Image */}

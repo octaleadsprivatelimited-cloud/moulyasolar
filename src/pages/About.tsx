@@ -7,6 +7,7 @@ import {
   CheckCircle,
   Star
 } from 'lucide-react';
+import SEO from '../components/SEO';
 
 const About: React.FC = () => {
   const achievements = [
@@ -46,6 +47,13 @@ const About: React.FC = () => {
 
   return (
     <div className="pt-16">
+      <SEO
+        title="About | Moulya solar energies"
+        description="Learn about Moulya solar energies — PM Surya Ghar Approved Vendor and MNRE Certified solar installer serving Andhra Pradesh and Telangana."
+        path="/about"
+        image="/images/logo.webp"
+        keywords="[About Moulya solar energies, solar company Hyderabad, MNRE approved installer, PM Surya Ghar vendor, solar panels Telangana, solar company Andhra Pradesh]"
+      />
       {/* Hero Section */}
       <section className="relative text-white py-20 overflow-hidden">
         {/* Background Image */}

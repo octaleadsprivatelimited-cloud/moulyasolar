@@ -13,6 +13,7 @@ import {
   Globe
 } from 'lucide-react';
 import { articles } from '../data/articles'; // Updated imports
+import SEO from '../components/SEO';
 
 const Blog: React.FC = () => {
   const [selectedCategory, setSelectedCategory] = useState('all');
@@ -43,6 +44,13 @@ const Blog: React.FC = () => {
 
   return (
     <div className="pt-16">
+      <SEO
+        title="Blog | Solar Guides, Tips & News | Moulya solar energies"
+        description="Read solar guides, tips, and news focused on AP & Telangana: savings, subsidies, installation, and technology insights."
+        path="/blog"
+        image="/images/logo.webp"
+        keywords="[solar blog, solar guides Telangana, solar tips, solar news India, PM Surya Ghar articles, rooftop solar advice, Hyderabad solar blog]"
+      />
       {/* Hero Section */}
       <section className="relative text-white py-20 overflow-hidden">
         {/* Background Image */}

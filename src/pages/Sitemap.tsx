@@ -9,6 +9,7 @@ import {
   MapPin,
   ChevronRight
 } from 'lucide-react';
+import SEO from '../components/SEO';
 
 const Sitemap: React.FC = () => {
   const sitemapSections = [
@@ -78,6 +79,13 @@ const Sitemap: React.FC = () => {
 
   return (
     <div className="pt-16">
+      <SEO
+        title="Sitemap | Moulya solar energies"
+        description="Sitemap of Moulya solar energies: browse all pages, blog articles, and resources."
+        path="/sitemap"
+        image="/images/logo.webp"
+        keywords="[website sitemap, solar site structure, Moulya sitemap, solar pages list, blog sitemap]"
+      />
       {/* Hero Section */}
       <section className="relative text-white py-20 overflow-hidden">
         {/* Background Image */}

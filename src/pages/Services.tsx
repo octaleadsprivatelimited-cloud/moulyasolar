@@ -12,6 +12,7 @@ import {
   ArrowRight
 } from 'lucide-react';
 import { openWhatsAppQuote } from '../utils/whatsapp';
+import SEO from '../components/SEO';
 
 const Services: React.FC = () => {
   const services = [
@@ -76,6 +77,13 @@ const Services: React.FC = () => {
 
   return (
     <div className="pt-16">
+      <SEO
+        title="Services | Solar Installation in AP & Telangana | Moulya solar energies"
+        description="Residential, commercial, and industrial solar installation services with premium components and expert commissioning across Andhra Pradesh and Telangana."
+        path="/services"
+        image="/images/logo.webp"
+        keywords="[solar installation services, residential solar, commercial solar, industrial solar, rooftop solar Hyderabad, solar installer Telangana, solar EPC AP]"
+      />
       {/* Hero Section */}
       <section className="relative text-white py-20 overflow-hidden">
         {/* Background Image */}

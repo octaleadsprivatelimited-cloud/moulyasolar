@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Sun, Calculator as CalculatorIcon, Zap, MessageCircle } from 'lucide-react';
+import SEO from '../components/SEO';
 
 const Calculator: React.FC = () => {
   const [monthlyBill, setMonthlyBill] = useState('');
@@ -39,6 +40,13 @@ const Calculator: React.FC = () => {
 
   return (
     <div className="pt-16 bg-gradient-to-br from-gray-50 to-gray-100 min-h-screen">
+      <SEO
+        title="Solar Calculator | Estimate Cost & Savings | Moulya solar energies"
+        description="Calculate your solar system size, cost, subsidy, and savings with our easy solar calculator for AP & Telangana."
+        path="/solar-calculator"
+        image="/images/logo.webp"
+        keywords="[solar calculator, solar savings calculator, solar subsidy calculator, PM Surya Ghar calculator, 3kW system price, 5kW solar cost, AP Telangana solar calculator]"
+      />
       {/* Hero Section */}
       <section className="relative text-white py-20 text-center overflow-hidden">
         {/* Background Image */}
